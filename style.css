@@ -2,6 +2,11 @@ header{
     text-align: center;
     color: blueviolet;
 }
+body{
+    flex: auto;
+    background-color: blanchedalmond;
+}
+
 ul img{
     width: 100px;
 }
@@ -11,10 +16,10 @@ ul img{
 table img{
     width: 50px;
 }
-div h2{
+h2{
     text-align: right;
 }
-div p{
+p{
     color: rgb(29, 180, 49);
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
@@ -22,3 +27,4 @@ h4{
     font-size: larger;
     color: darkorchid;
 }
+
