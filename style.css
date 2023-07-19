@@ -1,0 +1,24 @@
+header{
+    text-align: center;
+    color: blueviolet;
+}
+ul img{
+    width: 100px;
+}
+#flag{
+    width: 300px;
+}
+table img{
+    width: 50px;
+}
+div h2{
+    text-align: right;
+}
+div p{
+    color: rgb(29, 180, 49);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h4{
+    font-size: larger;
+    color: darkorchid;
+}
