@@ -43,6 +43,7 @@ main{
 }
 main .scroll{
     display: flex;
+           
     overflow: auto;
 }
 
