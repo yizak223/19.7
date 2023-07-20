@@ -27,12 +27,23 @@ h4{
     font-size: larger;
     color: darkorchid;
 }
-div.scroll{
+.scroll{
     display: flex;
-    overflow: auto;
     white-space: normal;
     padding: 10px;
     margin: 5%;
+    border: 3px solid rgb(61, 18, 215);
+}
+
+
+main{
+    display: auto;
+    overflow: auto;
+    
+}
+main .scroll{
+    display: flex;
+    overflow: auto;
 }
 
 
